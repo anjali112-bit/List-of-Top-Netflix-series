@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/List-of-Top-Netflix-series/static/css/main.073c9b0a.css",
+    "main.js": "/List-of-Top-Netflix-series/static/js/main.9424e5a6.js",
+    "static/js/787.fff89171.chunk.js": "/List-of-Top-Netflix-series/static/js/787.fff89171.chunk.js",
+    "static/media/logo.svg": "/List-of-Top-Netflix-series/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/List-of-Top-Netflix-series/index.html",
+    "main.073c9b0a.css.map": "/List-of-Top-Netflix-series/static/css/main.073c9b0a.css.map",
+    "main.9424e5a6.js.map": "/List-of-Top-Netflix-series/static/js/main.9424e5a6.js.map",
+    "787.fff89171.chunk.js.map": "/List-of-Top-Netflix-series/static/js/787.fff89171.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9424e5a6.js"
+  ]
+}
